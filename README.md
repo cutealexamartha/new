@@ -1,4 +1,4 @@
-# Google Maps Platform Agent Skills
+$ Google Maps Platform Agent Skills
 
 Google Maps Platform agent skills are portable, self-contained modules of Google Maps Platform-specific knowledge, instructions, and workflows. They're designed to help AI assistants understand GMP best practices and execute complex tasks with higher accuracy and lower token cost.
 
